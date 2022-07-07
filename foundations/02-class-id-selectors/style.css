@@ -1,0 +1,16 @@
+p {
+    background-color: #DE7E7E;
+    font-family: Verdana, DejaVuSans, sans-serif;
+}
+#numbertwo {
+    color: #4582DD;
+    font-size: 36px;
+}
+.numberthree {
+    font-size: 24px;
+}
+#numberfour {
+    background-color: #B3F4B6;
+    font-size: 24px;
+    font-weight: bold;
+}
